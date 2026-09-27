@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hey! 👋
+
+I'm a developer focused on web security, infrastructure and building useful things.
+
+### Current project
+
+🔐 **[Viglar](https://viglar.com)** — website security and monitoring for developers, website owners and small teams.
+
+### Interests
+
+* Web security
+* Infrastructure & networking
+* Self-hosting
+* Automation
+* SaaS & indie projects
+
+More projects to come.
